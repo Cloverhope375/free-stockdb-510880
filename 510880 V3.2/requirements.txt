@@ -1,4 +1,0 @@
-pandas>=2.0
-numpy>=1.24
-matplotlib>=3.7
-# 数据源用公开 HTTP 接口（新浪/腾讯），无需 akshare
