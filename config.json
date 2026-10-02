@@ -1,0 +1,7 @@
+{
+  "code": "510880",
+  "ma_period": 250,
+  "rsi_period": 14,
+  "sell_rsi": 70,
+  "buy_above_ma": true
+}
